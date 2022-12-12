@@ -1,0 +1,7 @@
+{
+  "name": "renan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
